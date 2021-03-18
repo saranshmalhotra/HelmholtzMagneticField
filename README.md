@@ -1,4 +1,4 @@
-# HelmholtzMagneticField
+# Helmholtz Magnetic Field
 The Python Code: Calculates the Magnetic Field near the Centre of Helmholtz Coils.
 
 Author: Saransh Malhotra
